@@ -1,6 +1,17 @@
 # 🔥 Wildfire Emergency Response System
 
 An advanced algorithm comparison system for optimizing emergency response routes during wildfire incidents using multiple Traveling Salesman Problem (TSP) algorithms.
+## Some live working photos
+<img width="3588" height="1988" alt="image" src="https://github.com/user-attachments/assets/3919ce2e-8b1c-47a1-8138-2c576d26d213" />
+<img width="3568" height="2006" alt="image" src="https://github.com/user-attachments/assets/ce3d1950-ac1d-4e82-ac74-b996919ab5d4" />
+<img width="3600" height="2000" alt="image" src="https://github.com/user-attachments/assets/be27b30d-52db-4eea-abad-0db1413da94d" />
+<img width="3600" height="1996" alt="image" src="https://github.com/user-attachments/assets/9d0255c1-c69b-431d-ad45-6102feacc491" />
+
+## Link to live working
+https://www.youtube.com/watch?v=5ITo3Sy_S7o
+
+
+
 
 ## 🌟 Overview
 
